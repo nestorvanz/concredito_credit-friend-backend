@@ -1,0 +1,8 @@
+{
+  "creditFriends": {
+    "server": "localhost",
+    "database": "CreditFriends",
+    "user": "sa",
+    "password": "sql"
+  }
+}

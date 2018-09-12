@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "cors": {
+    "origin": "http://localhost:4200",
+    "methods": "GET, POST, OPTIONS, PATCH, DELETE",
+    "headers": "X-Requested-With, content-type",
+    "credentials": true
+  }
+}
